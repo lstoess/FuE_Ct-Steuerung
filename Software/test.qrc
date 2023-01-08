@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>PNGPIX-COM-Football-PNG-Transparent-Image-500x500.png</file>
+  </qresource>
+</RCC>
